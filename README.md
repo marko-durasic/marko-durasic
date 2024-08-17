@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Web Technologies, Golang (Go), Linux (GNU+Linux), Backend Development and AWS Cloud Solutions
 - 🎡 Having fun: with Data Structures and Algorithms & Coding questions
 - 📫 How to reach me:
-    - Email: ddjura87@gmail.com, Linkedin: https://www.linkedin.com/in/markodurasic/, Website: https://www.markodurasic.com/
+    - Email: ddjura87@gmail.com, Linkedin: https://www.linkedin.com/in/markodurasic/, Website: https://www.markodurasic.com/, Tech Portfolio and Links: https://linktr.ee/techmarko
 
 <!---
 marko-durasic/marko-durasic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
