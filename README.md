@@ -6,7 +6,7 @@
 ☕ Support My Work
 If you've found my projects, tools, or content helpful and would like to support my journey in tech, consider buying me a coffee! Your support allows me to dedicate more time to building open-source tools, writing tutorials, and exploring new technologies.
 
-![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=techmarko&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)
+[Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=techmarko&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)
 
 <!---
 marko-durasic/marko-durasic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
