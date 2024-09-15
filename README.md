@@ -3,6 +3,7 @@
 - 🎡 Having fun: with Data Structures and Algorithms & Coding questions
 - 📫 How to reach me:
     - Email: ddjura87@gmail.com, Linkedin: https://www.linkedin.com/in/markodurasic/, Website: https://www.markodurasic.com/, Tech Portfolio and Links: https://linktr.ee/techmarko
+
 ☕ Support My Work
 If you've found my projects, tools, or content helpful and would like to support my journey in tech, consider buying me a coffee! Your support allows me to dedicate more time to building open-source tools, writing tutorials, and exploring new technologies.
 
