@@ -1,18 +1,20 @@
-### About Me
-- 👋 Hi, I’m Marko
-- 👀 I’m interested in: Golang (Go), Linux (GNU+Linux), Backend Development, and AWS Cloud Solutions
-- 🎡 Having fun with: Data Structures and Algorithms & Coding questions
-- 📫 How to reach me:
+## Hi, I'm Marko Durasic
 
-  [![Email](https://img.shields.io/badge/Email-ddjura87@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ddjura87@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/markodurasic/)
-  [![Website](https://img.shields.io/badge/Website-markodurasic.com-24292e?style=flat-square&logo=githubpages)](https://www.markodurasic.com/)
-  [![Portfolio](https://img.shields.io/badge/Tech%20Portfolio-Linktree-39E09B?style=flat-square&logo=linktree)](https://linktr.ee/techmarko)
+I'm a backend and cloud engineer based in Taipei, Taiwan. I work mainly with **Go (Golang), AWS, distributed systems, infrastructure as code, and production reliability**.
 
-### ☕ Support My Work
+I enjoy making software more robust in production, building useful tools, and sharing what I learn.
 
-I build the tools I want to use, if they help you too, grab them and enjoy. If you've found my projects, tools, or content helpful and would like to support my journey in tech, consider buying me a coffee! Your support allows me to dedicate more time to building open-source tools, writing tutorials, and exploring new technologies.
+- **Building:** [DuReef Learn](https://cloud-coach.dureef.com/) — focused learning for cloud and other technical topics.
+- **Open source:** [AWS Labs CLI Agent Orchestrator — merged UTC timestamp fix](https://github.com/awslabs/cli-agent-orchestrator/pull/873), with backend/UI regression tests.
+- **Certification:** [AWS Certified Developer – Associate](https://www.credly.com/badges/f506ac5c-7a57-4edb-aafc-d8bbab0f511f/).
+- **Projects & writing:** [markodurasic.com](https://www.markodurasic.com/) · [Projects](https://www.markodurasic.com/projects/) · [Writing](https://www.markodurasic.com/blog/).
 
-[![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=techmarko&button_colour=FFDD00&font_colour=000000&font_family=Arial&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/techmarko)
+### Contact
 
-> **Note:** To open the links in a new tab, use `Ctrl + click` (Windows & Linux) or `Cmd + click` (Mac).
+[![Email](https://img.shields.io/badge/Email-hello%40markodurasic.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hello@markodurasic.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/markodurasic/)
+[![Website](https://img.shields.io/badge/Website-markodurasic.com-24292e?style=flat-square&logo=githubpages)](https://www.markodurasic.com/)
+
+### Support My Work
+
+I build the tools I want to use. If you find something helpful and want to support future open-source experiments and writing, you can [buy me a coffee](https://www.buymeacoffee.com/techmarko).
